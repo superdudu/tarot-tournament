@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tarot-tournament/static/css/main.98f2cd6d.css",
+    "main.js": "/tarot-tournament/static/js/main.1580ddfc.js",
+    "index.html": "/tarot-tournament/index.html",
+    "main.98f2cd6d.css.map": "/tarot-tournament/static/css/main.98f2cd6d.css.map",
+    "main.1580ddfc.js.map": "/tarot-tournament/static/js/main.1580ddfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f2cd6d.css",
+    "static/js/main.1580ddfc.js"
+  ]
+}
