@@ -1,0 +1,38 @@
+tarot-tournament/
+├─ .github/workflows/
+│  ├─ ci-deploy-frontend.yml
+├─ backend/
+│  ├─ package.json
+│  ├─ index.js
+│  ├─ ftpClient.js
+│  ├─ auth.js
+│  └─ routes/
+│     ├─ tournaments.js
+│     ├─ results.js
+│     └─ users.js
+├─ frontend/
+│  ├─ package.json
+│  ├─ vite.config.js
+│  ├─ postcss.config.js
+│  ├─ tailwind.config.cjs
+│  ├─ index.html
+│  └─ src/
+│     ├─ main.jsx
+│     ├─ App.jsx
+│     ├─ pages/
+│     │  ├─ Home.jsx
+│     │  ├─ Tournament.jsx
+│     │  ├─ Match.jsx
+│     │  ├─ Stats.jsx
+│     │  └─ History.jsx
+│     ├─ components/
+│     │  ├─ Navbar.jsx
+│     │  ├─ Table.jsx
+│     │  ├─ ScoreInput.jsx
+│     │  ├─ Timer.jsx
+│     │  └─ Charts.jsx
+│     └─ api.js
+├─ scripts/
+│  ├─ deploy_local.sh
+├─ .env.example
+└─ README.md
